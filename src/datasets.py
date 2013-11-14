@@ -159,6 +159,7 @@ if __name__ == "__main__":
     t.add_next_tweet_from_stream()
     t.add_next_tweet_from_stream()
     print t.get_all_text()
+    raise ValueError("Temp Stop")
     y.add_data("GOOG")
     y.add_data("XOM")
     r = y.get_all_adj_close()
