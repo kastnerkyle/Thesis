@@ -1,0 +1,28 @@
+\select@language {english}
+\contentsline {chapter}{Acknowledgements}{iv}{Doc-Start}
+\contentsline {chapter}{Abstract}{v}{Doc-Start}
+\contentsline {chapter}{List of Tables}{viii}{chapter*.1}
+\contentsline {chapter}{List of Figures}{ix}{chapter*.2}
+\contentsline {chapter}{Chapter {1}: {Introduction}}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}The UTSAthesis.sty Package}{2}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Installation}{2}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Use of UTSAthesis.sty Package}{2}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.3}Produce the Outcome}{5}{subsection.1.1.3}
+\contentsline {section}{\numberline {1.2}The utsathesis.layout Package}{5}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Installation}{5}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Use of utsathesis.layout Package}{5}{subsection.1.2.2}
+\contentsline {chapter}{Chapter {2}: {Literature Review}}{7}{chapter.2}
+\contentsline {chapter}{Chapter {3}: {Problem Definition}}{8}{chapter.3}
+\contentsline {section}{\numberline {3.1}Using Definitions}{8}{section.3.1}
+\contentsline {section}{\numberline {3.2}Using Figures}{8}{section.3.2}
+\contentsline {chapter}{Chapter {4}: {Solution and Evaluation}}{9}{chapter.4}
+\contentsline {section}{\numberline {4.1}A Theory}{9}{section.4.1}
+\contentsline {section}{\numberline {4.2}An Algorithm}{9}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Evaluation}{9}{subsection.4.2.1}
+\contentsline {chapter}{Chapter {5}: {Future Directions}}{12}{chapter.5}
+\contentsline {chapter}{Appendix {A}: {Notations }}{13}{appendix.A}
+\contentsline {section}{\numberline {A.1}Math Notations}{13}{section.A.1}
+\contentsline {section}{\numberline {A.2}Additional Notations}{13}{section.A.2}
+\contentsline {chapter}{Appendix {B}: {Ontologies}}{14}{appendix.B}
+\contentsline {chapter}{Bibliography}{15}{appendix*.4}
+\contentsline {vita}{Vita}{16}{appendix*.4}

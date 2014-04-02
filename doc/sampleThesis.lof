@@ -1,0 +1,12 @@
+\select@language {english}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {Figure 1.1}{\ignorespaces Structure of a thesis \LaTeX {} file}}{3}{subsection.1.1.2}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {Figure 3.1}{\ignorespaces A Sample Figure with two sub-figures}}{8}{subfigure.3.1.2}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {The first Sub-Figure}}}{8}{subfigure.1.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {The Second Sub-Figure}}}{8}{subfigure.1.2}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
